@@ -1,0 +1,13 @@
+.env
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.sqlite3
+staticfiles/
+.coverage
+htmlcov/
+.pytest_cache/
+*.log
+node_modules/
+frontend/dist/
